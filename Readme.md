@@ -6,5 +6,7 @@
           <li> Headers e Body</li>
            <li>Api</li>
            <li>Callback</li>
+           <li>Promise</li>
+           <li> Métodos HTTP</li>
 
 </ul>
