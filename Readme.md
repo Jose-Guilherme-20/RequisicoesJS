@@ -8,5 +8,6 @@
            <li>Callback</li>
            <li>Promise</li>
            <li> Métodos HTTP</li>
+           <li> Asnyc Await </li>
 
 </ul>
